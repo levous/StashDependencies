@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "StashDependencies",
-            url: "https://github.com/levous/StashDependencies/releases/download/v0.1.3/StashDependencies.xcframework.zip",
-            checksum: "d5501d668a726671a3f5021b1d356d2db75c9b42f7efe3849a29c9373b70c529"
+            url: "https://github.com/levous/StashDependencies/releases/download/v0.1.4/StashDependencies.xcframework.zip",
+            checksum: "b9b82d54e2d58b23beeb441bdf6194eb5c324a4b20a1bcb14144ac85707ff175"
         ),
     ]
 )
